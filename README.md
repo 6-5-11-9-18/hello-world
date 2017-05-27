@@ -1,1 +1,2 @@
 # hello-world
+My Name is Felix, I'm new to programming, I started aproximately 1 month ago by starting to read a book about programming in Python. I've recently signed up on edX to the course "Introduction to Computer Science and Programming Using Python" by the MIT, starting May 30 as well as the "Introduction to Computer Science"(also known as CS50x) by Harward. I'm a german student so I hope you'll excuse any grammar or spelling mistakes. 
